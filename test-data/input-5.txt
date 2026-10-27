@@ -1,0 +1,4 @@
+#test failure rate
+GT4500,10,1,10,1
+TORPEDO,SINGLE
+TORPEDO,ALL
